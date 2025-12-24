@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project Specific
+data/processed/*.csv
+data/processed/*.json
+data/processed/*.png
+models/saved_model/*.joblib
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.cache
+
+# Large files (keep structure, ignore content)
+*.joblib
+*.pkl
+*.h5
+*.pt

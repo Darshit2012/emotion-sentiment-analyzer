@@ -1,0 +1,13 @@
+text,sentiment,emotion
+"The support team solved my issue within minutes, really impressed!",positive,joy
+"Delivery was late and the package was damaged when it arrived.",negative,anger
+"The product quality is fine but nothing special.",neutral,neutral
+"I love the new update, the app feels smoother and faster now.",positive,joy
+"Customer service kept transferring my call, wasting my time.",negative,anger
+"I feel anxious about the new pricing; it's confusing and unclear.",negative,fear
+"The instructions were clear and easy to follow.",positive,joy
+"This is okay, but I expected more features for the price.",neutral,neutral
+"The surprise discount made my day, thank you!",positive,surprise
+"The UI change made me feel lost; I'm not sure where anything is.",negative,sadness
+"App performance is stable most of the time.",neutral,neutral
+"I was afraid to update after last year's crash, but it worked great.",positive,fear
