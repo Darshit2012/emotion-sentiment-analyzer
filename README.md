@@ -297,7 +297,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🤝 Contributing
 
-This is a final-year B.Tech project. While contributions are welcome, please note:
+Contributions are welcome, please note:
 - Fork the repository and create feature branches
 - Follow existing code style and documentation standards
 - Add tests for new features
@@ -317,7 +317,7 @@ This is a final-year B.Tech project. While contributions are welcome, please not
 
 ## 👨‍💻 Author
 
-**Darshit**
+**Darshit Rangpariya**
 - Final-Year B.Tech Project (2025)
 - GitHub: [@Darshit2012](https://github.com/Darshit2012)
 
